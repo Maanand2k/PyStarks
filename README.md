@@ -1,0 +1,2 @@
+# PyStarks
+Advanced object detection 
